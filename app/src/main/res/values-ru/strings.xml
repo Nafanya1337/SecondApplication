@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Русское приложение</string>
+    <string name="welcome_text">Приветствую</string>
+    <string name="button">Изменить язык</string>
+</resources>
