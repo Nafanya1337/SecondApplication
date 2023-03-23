@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">Русское приложение</string>
+    <string name="app_name">MyApp</string>
     <string name="welcome_text">Приветствую</string>
-    <string name="button">Изменить язык</string>
+    <string name="button">Проверить версию SDK</string>
+    <string name="lang">Изменить язык</string>
+    <string name="activity">Перейти во второе активити</string>
 </resources>

@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">English Application</string>
+    <string name="app_name">MyApp</string>
     <string name="welcome_text">Welcome</string>
-    <string name="button">Change language</string>
+    <string name="button">Check SDK ver</string>
+    <string name="lang">Change language</string>
+    <string name="activity">Go to 2nd activity</string>
 </resources>
